@@ -39,7 +39,13 @@ An ERD diagram, using crow's foot notation, of whatever app you choose.  For exa
 Write the `tables.sql` file for this app. Write a `seed.sql` for the first row or two in every table.
 
 #### 3
-Write the sql files to get every major relationship in the app. (Make sure you have enough dummy data to get at least one row)
+Write the sql SELECT queries that gets every major relationship in the app in a `queries.sql` file. (Make sure you have enough dummy data to get at least one row.)
+
+For example, for Facebook, write an sql SELECT to get:
+
+* my friends on Facebook
+* every user in a Facebook group
+* etc.
 
 ## Additional Resources
 
