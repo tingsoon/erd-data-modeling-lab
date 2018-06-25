@@ -25,6 +25,9 @@ Remember to consider all different angles in each of these examples. What jobs r
 
 ### Deliverables
 
+
+### In Pairs:
+
 #### 1
 An ERD diagram, using crow's foot notation, of whatever app you choose.  For example:
 
@@ -35,15 +38,24 @@ An ERD diagram, using crow's foot notation, of whatever app you choose.  For exa
 
 > Note: this example has "Items" as placeholders for the attributes.
 
+**Warning: DO NOT try to implement the entire app. That will be way too big. Start with the major features. Then move on to the next part (2).** If you get done with the below, come back and add to the ERD.
+
 #### 2
-Write the `tables.sql` file for this app. Write a `seed.sql` for the first row or two in every table.
+Write the `tables.sql` file for this app. 
+
+### In Pairs or On Your Own:
+(If you found out you made a mistake in your table creation when you run your seed file, or when you are working on your own at all, make sure to coordinate with your partner to fix these errors.)
 
 #### 3
+Write a `seed.sql` for the first row or two in every table.
+
+#### 4
 Write the sql SELECT queries that gets every major relationship in the app in a `queries.sql` file. (Make sure you have enough dummy data to get at least one row.)
 
 For example, for Facebook, write an sql SELECT to get:
 
 * my friends on Facebook
+* photos I'm tagged in
 * every user in a Facebook group
 * etc.
 
