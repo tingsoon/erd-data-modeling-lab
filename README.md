@@ -62,7 +62,6 @@ For example, for Facebook, write an sql SELECT to get:
 ## Additional Resources
 
 - [crows foot notation cheat sheet](http://www.vivekmchawla.com/content/images/2013/Dec/ERD_Relationship_Symbols_Quick_Reference-1.png)
-- Extra relevant [resource for students](https://developer.mozilla.org/en-US/docs/Web/Events)
 
 
 ---
